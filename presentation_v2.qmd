@@ -227,7 +227,7 @@ Une trajectoire de recherche unifiée par l'étude des décisions individuelles 
 **Projets ANR**
 
 - Terminés : **ConfinObs** (B. Ventelou), **Respire** (M. Willinger), **WINAR** (R. Romaniuc).
-- Sur la fin (2027) : **GROUP** (G. Cheikbossian)**SPORT** (M. Willinger).
+- Sur la fin (2027) : **GROUP** (G. Cheikbossian), **SPORT** (M. Willinger).
 - Nouveau : **FAIRINV** (A. Nguyen).
 - Déposés : **DEMO** (M. Willinger), **FORGE** (K. Strauss).
 :::
