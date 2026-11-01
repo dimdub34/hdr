@@ -1,0 +1,574 @@
+---
+title: "Ingénierie expérimentale et comportements économiques"
+subtitle: "Mécanismes de décision et de coopération face aux défis sociétaux et environnementaux"
+author:
+    name: "Dimitri DUBOIS"
+    affiliation: "Ingénieur de Recherche CNRS — CEE-M (UMR 5211)<br>École Doctorale Économie-Gestion (ED 231) — Université de Montpellier"
+date: "3 novembre 2026"
+format:
+  revealjs:
+    css: ceem-slides.css
+    slide-number: true
+    show-slide-number: all
+    transition: fade
+    center: false
+    hash-type: number
+    controls: true
+    overview: true
+    navigation-mode: vertical
+    progress: true
+    preview-links: auto
+    output-file: index.html
+    embed-resources: true
+---
+
+# Remerciements
+
+- Merci aux membres du jury pour la lecture et l'évaluation de mon manuscrit.
+- Merci aux collègues pour les échanges scientifiques et les projets.
+
+
+# Plan
+
+::: {.card}
+**Structure de la présentation**
+
+1. [Pourquoi l'Habilitation à Diriger des Recherches ?](#pourquoi)
+2. [Positionnement scientifique et démarche expérimentale](#positionnement)
+3. [Prise de décision, préférences sociales et comportements stratégiques](#prise-de-decision)
+4. [Gestion des ressources communes et comportements environnementaux](#ressources-communes)
+5. [Économie comportementale et politiques publiques](#politiques-publiques)
+6. [Méthodologie expérimentale, interdisciplinarité et science ouverte](#methodologie)
+7. [Conclusion et perspectives](#conclusion)
+:::
+
+
+# Pourquoi l'Habilitation à Diriger des Recherches ? {#pourquoi}
+
+## Une activité au plus proche de la recherche
+
+::: {style="font-size: 0.9em"}
+::: {.card}
+**Responsable du LEEM depuis 2008**
+
+- Conception de protocoles expérimentaux, développement logiciel, collecte et gestion des données, analyse des données
+- Contrôle de la qualité, de la validité et de la reproductibilité des données expérimentales
+:::
+
+::: {.card}
+**Une production scientifique continue**
+
+- ~30 publications scientifiques
+- Participation à de nombreux projets de recherche menés avec des financements institutionnels variés (ANR, Université, CNRS, Labex, Région, ADEME etc.)
+:::
+:::
+
+---
+
+## Une expérience acquise au cours du temps
+
+::: {.card}
+**Volume et diversité des expériences**
+
+- ~10 à 15 projets/an en laboratoire (y compris dans plusieurs pays)
+- ~2 à 3 projets/an sur le terrain (y compris terrains difficiles)
+- ~3 à 4 projets/an en ligne (Prolific ou multi-lab)
+:::
+
+::: {.card}
+**Encadrement**
+
+- Encadrement de 3 thèses (1 terminée, 1 en cours, 1 qui débute) 
+- Formation méthodologique et technique de plus de 15 doctorants
+- Encadrement de nombreux étudiants de Master
+:::
+
+---
+
+## Pourquoi franchir ce pas maintenant ?
+
+::: {style="font-size: 0.9em"}
+::: {.card .primary}
+**20 ans après la thèse (2006–2026)**
+:::
+
+::: {.card}
+**Une dynamique scientifique personnelle**
+
+- Reconnaître un encadrement de fait et passer du co-encadrement à la direction de thèses
+- Initier et porter de nouveaux projets doctoraux (*CPR intergénérationnel, Comportement et alimentation, Décision et mouvement*)
+:::
+
+::: {.card}
+**Un enjeu collectif pour l'équipe expérimentale du CEE-M**
+
+- Assurer le relais d'encadrement après le départ en retraite de Marc Willinger
+- Pouvoir co-diriger des thèses avec les jeunes chercheurs récemment recrutés (non-HDR)
+:::
+:::
+
+
+# Positionnement scientifique et démarche expérimentale {#positionnement}
+
+## Une approche comportementale par la preuve
+
+::: {style="font-size: 0.85em"}
+::: {.card}
+**Postulat**
+
+- Décideurs à **rationalité limitée** (Simon, 1955).
+- Les préférences (risque, temps, coopération) ne sont **pas des paramètres invariants**, mais des **variables endogènes** influencées par le contexte institutionnel, social et informationnel.
+:::
+
+::: {.card}
+**L'expérimentation comme méthode d'investigation**
+
+- Une **boucle itérative** entre modélisation formelle et observation contrôlée (Falk & Heckman, 2009).
+- **Un continuum de dispositifs** : du *laboratoire* au *terrain (lab-in-the-field)* et aux *expériences en ligne*. Ouverture à l'*interdisciplinarité*.
+- **Une rigueur méthodologique** : validité des protocoles, *reproductibilité* et *science ouverte*.
+:::
+:::
+
+---
+
+## Panorama des thèmes de recherche
+
+::: {style="font-size: 0.85em"} 
+::: {.card .primary} 
+**L'analyse des comportements face aux externalités**
+
+Une trajectoire de recherche unifiée par l'étude des décisions individuelles et collectives générant des externalités (sociales, temporelles, spatiales et sociétales), déclinée à travers 4 axes complémentaires.
+:::
+
+::: {.card} 
+**Quatre axes thématiques et méthodologiques**
+
+1. **Décision individuelle et interactions stratégiques** : fondements comportementaux, arbitrages risque/temps et préférences sociales.  
+2. **Systèmes complexes et ressources communes** : rétroactions dynamiques, externalités spatiales et dilemmes intergénérationnels.  
+3. **Régulation et politiques publiques** : acceptabilité sociale, nudges, dispositifs d'auto-contrainte et transfert opérationnel.  
+4. **Ingénierie expérimentale, science ouverte et interdisciplinarité** : innovations protocolaires, reproductibilité et dialogue avec d'autres disciplines. 
+::: 
+:::
+
+
+# Prise de décision, préférences sociales et comportements stratégiques {#prise-de-decision}
+
+## Trois dimensions
+
+::: {style="font-size:0.72em"}
+::: {.card}
+**Prise de décision individuelle** *(Kahneman & Tversky, 1979 ; Camerer, 2003)*
+
+- Arbitrages face au **risque**, à l'**incertitude** et au **temps** sous contraintes cognitives et contextuelles.
+- *Instruments* : listes de choix (*MPL*), loteries, tâches dynamiques (*BRET*, *BART*), budgets temporels (*CTB*).
+:::
+
+::: {.card}
+**Préférences sociales** *(Fehr & Schmidt, 1999 ; Charness & Rabin, 2002)*
+
+- Intégration du bien-être d'autrui : altruisme, équité, réciprocité, aversion à l'inégalité.
+- *Instruments* : jeux incités (*dictateur, confiance, bien public*), orientation sociale (*SVO*), mesures validées (*GPS*).
+:::
+
+::: {.card}
+**Comportements stratégiques** *(Osborne & Rubinstein, 1994 ; Camerer, 2003)*
+
+- Anticipations sur autrui, coordination et normes sociales en situation d'interdépendance.
+- *Instruments* : jeux de coordination, de confiance/réciprocité, profondeur de raisonnement, dilemmes sociaux.
+:::
+:::
+
+---
+
+## Capturer l'hétérogénéité des préférences face aux contextes et populations
+
+::: {style="font-size:0.7em"}
+::: {.card}
+**Indonésie (Volcan Semeru) : risque extrême et préférences sociales**
+
+- Exposition chronique associée à une plus forte aversion au risque (*risk vulnerability*) ; après l'éruption de 2021, activation transitoire de l'altruisme et de la coopération comme amortisseur collectif *(Sun et al., soumis)*.
+:::
+
+::: {.card}
+**Salles de marché au Maroc : professionnels de la finance vs étudiants**
+
+- **Raisonnement stratégique** : profondeur supérieure chez les professionnels, articulée à l'orientation sociale *(Acikgoz et al., 2024, Economics Letters)*.
+- **Finance durable** : sacrifice de rendement accepté pour l'impact environnemental, mais fragilité des préférences ESG face à la volatilité *(Duchêne et al., R&R J. Econ. Psych.)*.
+:::
+
+::: {.card}
+**Sportifs de compétition : réduction de l'écart de genre**
+
+- La pratique sportive compétitive élimine l'écart de genre dans l'entrée en compétition et la prise de risque *(Willinger, Dubois & Bravaccini, 2022, Journal of Sports Economics)*.
+:::
+:::
+
+---
+
+## Isoler les mécanismes : Institutions, normes et interactions stratégiques
+
+::: {style="font-size:0.9em"}
+::: {.card}
+**Explorer les ressorts de la coopération en environnement contrôlé**
+
+- **Identification & confiance** : l'identification mutuelle stabilise confiance et réciprocité via la réputation *(Dubois, Willinger & Blayac, 2012, J. Econ. Psych.)*.
+- **Vote & inégalités** : le vote démocratique sous fortes inégalités peut dégrader durablement la prosocialité *(Romaniuc, DeAngelo, Dubois & McCannon, 2019 ; DeAngelo, Dubois & Romaniuc, 2020, JEBO)*.
+- **Signalement & fraude fiscale** : efficacité dissuasive de la dénonciation modulée par les normes culturelles France / Moldavie *(Bazart, Beaud & Dubois, 2020, Kyklos ; Romaniuc, Dubois et al., 2022, Public Choice)*.
+- **Sacrifice et coopération intragroupe en situation de conflit intergroupe** : registred report accepté, *Varaine et al. Experimental Economics*.
+:::
+:::
+
+---
+
+## Projets et encadrement
+
+::: {style="font-size:0.85em"}
+::: {.card}
+**Projets ANR**
+
+- Terminés : **ConfinObs** (B. Ventelou), **Respire** (M. Willinger), **WINAR** (R. Romaniuc).
+- Sur la fin (2027) : **GROUP** (G. Cheikbossian)**SPORT** (M. Willinger).
+- Nouveau : **FAIRINV** (A. Nguyen).
+- Déposés : **DEMO** (M. Willinger), **FORGE** (K. Strauss).
+:::
+
+::: {.card .primary}
+**Encadrement doctoral**
+
+- **Thèse de N. Bobin** *(2022-2026, co-dir. avec M. Willinger)* : causalité entre compétition sportive, préférences économiques et marqueurs psychométriques/biologiques.
+
+- **Thèse de M. Andrade** *(2026- , co-dir. avec C. Berticat, biologiste)* : impact causal des glucides raffinés sur le risque, l'impatience, la coopération et la compétition.
+
+- **Projet de thèse** : Décision en mouvement : posture, locomotion et comportements économiques. *Collaboration avec Euromov (neurosciences)*.
+:::
+::: 
+
+
+# Gestion des ressources communes et comportements environnementaux {#ressources-communes}
+
+## Du statique aux systèmes socio-écologiques complexes
+
+::: {style="font-size:0.75em"}
+::: {.card .primary}
+**La tragédie des communs et la gouvernance polycentrique**
+
+- Tension entre intérêt individuel et collectif face à une ressource **rivale et non-exclusive** *(Hardin, 1968)*.
+- Dépasser l'opposition marché (privatisation) vs État centralisé : l'apport de la **gouvernance polycentrique** et des institutions endogènes *(Ostrom, 1990, 2010)*.
+- Intégration de la réalité bioéconomique : évolution de la ressource dans ses **dimensions temporelles et spatiales**.
+:::
+
+::: {.card}
+**Une progression analytique des externalités**
+
+1. **Cadre statique répété** : information et capital social (qualité relationnelle).
+2. **Dynamique temporelle** : rétroactions écologiques et arbitrages intertemporels.
+3. **Dimension spatiale** : mobilité de la ressource entre *patches* interconnectés.
+4. **Horizon intergénérationnel** : seuils critiques de renouvellement et transmission.
+:::
+:::
+
+---
+
+## Des leviers informationnels et relationnels aux dynamiques temporelles
+
+::: {style="font-size:0.75em"}
+::: {.card}
+**Cadre statique : information et relations**
+
+- **Partage volontaire** : la divulgation volontaire favorise la coopération mieux que l'obligation *(Dubois et al., 2020, PLOS ONE)*.
+- **Capital social** : un climat relationnel coopératif réduit l'incertitude et freine la surexploitation *(Brugnach et al., 2021, Scientific Reports ; 2026, Sustainability Science)*.
+:::
+
+::: {.card}
+**Cadre dynamique : Temps continu et analyse des trajectoires observées**
+
+- **Temps continu vs discret** : le temps continu favorise la coopération via des ajustements instantanés (*pulse behavior*) *(Djiguemde et al., 2022, Env. and Res. Economics)*.
+- **Actualisation** : l'actualisation au présent (*p-discounting*) amplifie la surexploitation par rapport au modèle standard *(Davin et al., 2025, Res. and Energy Economics)*.
+- **Catégorisation** : comportements observés des individus et comparaison aux sentiers théoriques *(Djiguemde et al., 2022, Applied Economics)*.
+:::
+:::
+
+---
+
+## Spatialité et dilemmes intergénérationnels
+
+::: {style="font-size:0.9em"}
+::: {.card}
+**Mobilité et externalités spatiales**
+
+- **Débordement spatial** : la compétition dans un *patch* voisin réduit les gains par dispersion physique (*grab-it-before-it-moves*) *(Bayle et al., 2026, soumis JEEM)*.
+- **Productivité biologique** : l'efficacité globale suggère d'allouer les droits exclusifs aux zones à haute productivité biologique *(Bayle et al., 2026, soumis PNAS)*.
+:::
+
+::: {.card}
+**Dilemme intergénérationnel**
+
+- *Intergenerational Goods Game* à seuil *(Hauser et al. 2014, Nature)*: gestion individuelle (**1P**) vs groupe de contemporains (**3P**).
+- Naturellement pro-futur seuls (1P), les agents surexploitent en groupe (3P) par **pessimisme stratégique** envers leurs pairs.
+:::
+:::
+
+---
+
+## Gouvernance sur le terrain
+
+::: {style="font-size: 0.9em"}
+::: {.card}
+**Hybride Labo / Terrain : nappes phréatiques à Kebili (Tunisie)**
+
+- Expérimentation de trois outils – *simulation, communication et expertise* – en laboratoire puis auprès de **170 agriculteurs oasiens** pour lutter contre la sur-exploitation *(Rhouma et al., soumis)*.
+- **Le conseil d'expert comme boussole** : sur le terrain, la recommandation explicite surpasse la communication libre et permet d'approcher l'optimum social.
+:::
+:::
+
+---
+
+## Projets
+
+::: {style="font-size:0.75em"}
+::: {.card}
+**En cours**
+
+- **Seuils d'irréversibilité et changements de régime** *(avec M. Davin, K. Erdlenbruch & M. Willinger)*.
+- **Participations croisées (*Cross-ownership*)** *(avec H. Benchekroun, M. Dai & M. Willinger)*.
+- **Risque de basculement spatial** : migration totale et irrévocable, *(ANR CraMoRes)*.
+:::
+
+::: {.card}
+**Déposés (PI) sur les CPR intergénérationnels**
+
+- **GIRCI** (AAP Pôle SOC UM, 2027–2028)
+  - Surmonter le conflit intragénérationnel : **élicitation des croyances**, **délégation** à un représentant unique et **héritage moral**.
+  - *avec M. Willinger, G. Bayle, S. Farolfi*, 1 post-doc demandé.
+- **RESIST-NORM** (*AAP ManyNorms — EXPLAIN Multilab*)
+  - Désintriquer la **réactance prescriptive** *(Krupka & Weber, 2013)* du **pessimisme empirique** *(Bicchieri, 2006)* face aux recommandations de sobriété selon l'identité du prescripteur (contemporains vs génération future $\times$ local vs distant).
+  - *avec M. Willinger*.
+:::
+:::
+
+---
+
+## Encadrement doctoral
+
+::: {style="font-size:0.95em"}
+::: {.card}
+**Passé**
+
+- **Thèse de M. Djiguemde** *(2017-2021, co-dir avec M. Tidbal)* : Jeux Dynamiques et Ressources Communes Renouvelables : Modélisation et Expérimentation
+:::
+
+::: {.card}
+**Pistes de thèses**
+
+- Introductions de l'incertitude sur les seuils d'irréversibilité et les changements de régime
+- Unification des jeux dynamiques et legs physiques intergénérationnels
+- Dilemmes intergénérationnels (croyances/normes, délégation/héritage, risques/incertitudes).
+:::
+:::
+
+
+
+# Économie comportementale et politiques publiques {#politiques-publiques}
+
+## L'action publique fondée sur la preuve
+
+::: {style="font-size: 0.8em"}
+::: {.card}
+**Fondements et instruments**
+
+- **Déviations systématiques** : rationalité limitée (Système 1 vs 2, heuristiques), volonté limitée (présentisme) et intérêt personnel limité (équité, réciprocité, normes).
+- **Des instruments** : 
+  * ***Nudges* et architecture des choix** *(Thaler & Sunstein, 2008)* : cibler le Système 1 sans contrainte.
+  * ***Boosts*** *(Hertwig & Grüne-Yanoff, 2017)* et **dispositifs d'engagement** *(Schelling, 1984 ; Ashraf et al., 2006)*: renforcer les compétences ou l'auto-contrainte volontaire.
+:::
+
+::: {.card .primary}
+**L'expérimentation comme banc d'essai (*evidence-based policy*)**
+
+- Tester *ex ante* les politiques publiques pour maîtriser les coûts, anticiper les effets pervers et garantir la crédibilité de l'action.
+- Transfert opérationnel auprès des collectivités (CNFPT Rhône-Alpes, Métropole de Montpellier).
+:::
+:::
+
+---
+
+## Acceptabilité, évaluation et limites des interventions
+
+::: {style="font-size: 0.7em"}
+::: {.card}
+**Crise sanitaire et acceptabilité sociale** 
+
+*Blayac et al., 2020, Lancet Public Health ; 2022, Social Psychology*.
+
+- Expérience de choix discrets (*DCE*, $N = 1\,154$) sur les **arbitrages entre protection et libertés**.
+- Préférences non linéaires, rôle clé de l'équité perçue et de l'altruisme envers les vulnérables.
+:::
+
+::: {.card}
+**Participation électorale et limites des *nudges* en ligne** 
+
+*Romaniuc et al., 2025, JEBO*.
+
+- Expérimentation auprès de ~4 000 jeunes électeurs lors de scrutins nationaux.
+- **Effets faibles** des rappels normatifs.
+:::
+
+::: {.card}
+**Évaluation causale de la *Fresque du Climat*** 
+
+*En cours, Partenariat Saint-Gobain*
+
+- Mesure de l'impact de la Fresque sur les croyances, connaissances et **comportements effectifs**.
+:::
+
+:::
+
+---
+
+## Engagement et auto-régulation
+
+::: {style="font-size: 0.85em"}
+::: {.card}
+**Joueurs de la Française des Jeux : contrôle de soi et dispositifs d'engagement**  
+
+*Partenariat Française des jeux*
+
+- Comparaison d'engagements contraignants (*hard*) et souples (*soft*) : les dispositifs *hard* limitent les prises de risque excessives, les *soft* sont mieux acceptés *(Bettega, Crosetto, Dubois & Romaniuc, 2024, Theory and Decision)*.
+:::
+
+::: {.card}
+**Sobriété numérique et auto-régulation** 
+
+*Partenariat Orange / A. Guido, soumis European Economic Review*
+
+- Utilisation d'engagements souples en ligne comme points d'ancrage pour modifier les routines (bascule 4G/5G vers Wi-Fi).
+- Modification des comportements routiniers sans contrainte technique ni financière.
+:::
+:::
+
+---
+
+## Enseignement transversal
+
+::: {.card .primary}
+L'apport de l'économie comportementale à l'action publique réside moins dans la promotion de solutions standardisées ou miracles (*nudges* universels) que dans sa capacité à **éclairer les conditions de validité, d'équité et les limites des interventions**, en les articulant étroitement avec le contexte institutionnel et normatif.
+:::
+
+
+# Méthodologie expérimentale, interdisciplinarité et science ouverte {#methodologie}
+
+## Développements méthodologiques et ingénierie
+
+::: {style="font-size: 0.72em"}
+::: {.card}
+**Temps continu, horizon infini et flexibilité des dispositifs**
+
+- **Jeux différentiels et temps continu** : levée de verrous techniques pour capter les ajustements instantanés (*pulse behavior*) et l'impact de l'actualisation (*z-* vs *p-discounting*) *(Djiguemde et al., 2022 ; Davin et al., 2025)*.
+- **Horizon infini** : modélisation de la *scrap-value* pour s'affranchir des biais de la probabilité de continuation aléatoire *(Djiguemde et al., 2022)*.
+:::
+
+::: {.card}
+**Du laboratoire au terrain (*lab-in-the-field*) et aux grands échantillons**
+
+- **Laboratoires mobiles autonomes** : déploiement en contextes contraints (volcan Semeru, salles de marché au Maroc, sportifs de haut niveau).
+- **Démarche hybride itérative** : allers-retours terrain $\leftrightarrow$ labo (diagnostic, test d'instruments, déploiement dans les oasis de Kebili).
+- **Changement d'échelle** : coordination multi-sites à grande échelle (*projet VOTE*, ~4 000 sujets) et implication dans l'infrastructure **EXPLAIN**.
+:::
+:::
+
+---
+
+## Rigueur protocolaire et crédibilité
+
+::: {style="font-size: 0.95em"}
+::: {.card}
+**Projets en cours**
+
+- **Questionnaires de compréhension** : comparaison systématique des formats (QCM, ouverts, adaptatifs) pour réduire le bruit décisionnel *(avec G. Bayle)*.
+- **Transparence des tirages aléatoires** : recours à une source externe et publique inattaquable (décimales du cours de clôture du Bitcoin) pour s'affranchir de l'opacité informatique interne *(avec G. Bayle & S. Varaine)*.
+:::
+:::
+
+---
+
+## L'expérimentation comme objet-frontière interdisciplinaire
+
+::: {style="font-size: 0.85em"}
+::: {.card .primary}
+**Les jeux économiques comme langage commun**
+
+Des protocoles formalisés mais flexibles pour traduire et tester des hypothèses issues d'autres disciplines dans un cadre analytique incitatif partagé.
+:::
+
+::: {.card}
+**Dialogues interdisciplinaires féconds**
+
+- **Hydrologie et agronomie** : gouvernance de l'eau et modélisation bioéconomique *(UMR G-Eau, S. Farolfi, Bruno Bonte ; B3C, Marcela Brugnach)*.
+- **Biologie évolutive** : attractivité, signaux olfactifs de coopération et régime alimentaire *(Tognetti et al., 2016, 2022 ; Berticat et al.)*.
+- **Philosophie morale et Neurosciences** : impact du handicap *(Tognetti et al., 2022)* et des états sensorimoteurs sur les décisions *(projet)*.
+:::
+:::
+
+---
+
+## Science ouverte et reproductibilité
+
+::: {style="font-size: 0.85em"}
+::: {.card .primary}
+**Des bonnes pratiques qui se standardisent** 
+
+*Bayle, Dubois & Willinger, 2025, Revue Économique*
+
+- **Pré-enregistrement** (*OSF*) pour lutter contre le *p-hacking* et l'*HARKing*.
+- **Partage avec la communauté (*FAIR* & *Open Code*)** : données, scripts d'analyse et  applications *oTree* (*GitHub/GitLab, Zenodo, Nakala*).
+:::
+
+::: {.card}
+**Engagement dans la réplication**
+
+- Réplication de **Nielsen & Rehbeck (2022, *American Economic Review*)** sur les erreurs de choix face aux axiomes de rationalité *(avec G. Bayle & S. Varaine, R&R Journal of Economic Psychology)*.
+- Réplication de **Chen & Zhong (2025, *Econometrica*)** sur les comportements moraux en environnement incertain *(avec G. Bayle, E. Corvaisier & S. Varaine)*.
+:::
+:::
+
+
+# Conclusion et perspectives {#conclusion}
+
+## Bilan : Un fil conducteur de 20 ans
+
+::: {style="font-size: 0.8em"}
+::: {.card .primary}
+**L'analyse des comportements face aux externalités**
+
+- Un fil conducteur unifié : l'étude des décisions individuelles et collectives générant des **externalités** (sociales, spatiales, intertemporelles ou intergénérationnelles).
+- Dépassement des modèles normatifs standards tout en maintenant une exigence absolue de **formalisation théorique** et d'**identification causale**.
+:::
+
+::: {.card}
+**Une ingénierie expérimentale intégrée et ouverte**
+
+- Un continuum de dispositifs originaux adaptés : du **laboratoire** (temps continu, espace) au **terrain** (*lab-in-the-field*, plateformes multi-sites).
+- Exigence constante de **crédibilité perçue** et de **science ouverte** (*pré-enregistrement, Open Data/Code, réplications*).
+- **Ouverture interdisciplinaire** (biologie, psychologie, neurosciences) indispensable pour appréhender les transitions.
+:::
+:::
+
+---
+
+## Perspectives : L'HDR pour animer, encadrer et transmettre
+
+::: {style="font-size: 0.85em"}
+::: {.card}
+**Dynamique d'encadrement doctoral**
+
+- Transmettre des connaissances disciplinaires et un savoir-faire méthodologique.
+- *Thèses en cours* : N. Bobin (compétition sportive), M. Andrade (régime alimentaire, AAP Nexus).
+- *Perspectives* : gouvernance intergénérationnelle (*GIRCI & RESIST-NORM*), incertitude écologique en temps continu, décision en mouvement.
+:::
+
+::: {.card .primary}
+**En conclusion**
+
+L'HDR n'est pas un aboutissement, mais le **cadre institutionnel nécessaire pour structurer et transmettre un programme de recherche collectif**, centré sur l'analyse comportementale des décisions face aux grands défis contemporains.
+:::
+:::
