@@ -193,7 +193,7 @@ Une trajectoire de recherche unifiée par l'étude des décisions individuelles 
 **Salles de marché au Maroc : professionnels de la finance vs étudiants**
 
 - **Raisonnement stratégique** : profondeur supérieure chez les professionnels, articulée à l'orientation sociale *(Acikgoz et al., 2024, Economics Letters)*.
-- **Finance durable** : sacrifice de rendement accepté pour l'impact environnemental, mais fragilité des préférences ESG face à la volatilité *(Duchêne et al., Journ. of Econ. Dyn. and Controls)*.
+- **Finance durable** : sacrifice de rendement accepté pour l'impact environnemental, mais fragilité des préférences ESG face à la volatilité *(Duchêne et al., 2026, Journ. of Econ. Dyn. and Controls)*.
 :::
 
 ::: {.card}
