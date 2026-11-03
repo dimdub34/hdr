@@ -124,7 +124,7 @@ format:
 **L'expérimentation comme méthode d'investigation**
 
 - Une **boucle itérative** entre modélisation formelle et observation contrôlée (Falk & Heckman, 2009).
-- **Un continuum de dispositifs** : du *laboratoire* au *terrain (lab-in-the-field)* et aux *expériences en ligne*. Ouverture à l'*interdisciplinarité*.
+- **Un continuum de dispositifs** : du *laboratoire* au *terrain (lab-in-the-field)* et aux *expériences en ligne*. 
 - **Une rigueur méthodologique** : validité des protocoles, *reproductibilité* et *science ouverte*.
 :::
 :::
@@ -193,7 +193,7 @@ Une trajectoire de recherche unifiée par l'étude des décisions individuelles 
 **Salles de marché au Maroc : professionnels de la finance vs étudiants**
 
 - **Raisonnement stratégique** : profondeur supérieure chez les professionnels, articulée à l'orientation sociale *(Acikgoz et al., 2024, Economics Letters)*.
-- **Finance durable** : sacrifice de rendement accepté pour l'impact environnemental, mais fragilité des préférences ESG face à la volatilité *(Duchêne et al., R&R J. Econ. Psych.)*.
+- **Finance durable** : sacrifice de rendement accepté pour l'impact environnemental, mais fragilité des préférences ESG face à la volatilité *(Duchêne et al., Journ. of Econ. Dyn. and Controls)*.
 :::
 
 ::: {.card}
@@ -211,7 +211,7 @@ Une trajectoire de recherche unifiée par l'étude des décisions individuelles 
 ::: {.card}
 **Explorer les ressorts de la coopération en environnement contrôlé**
 
-- **Identification & confiance** : l'identification mutuelle stabilise confiance et réciprocité via la réputation *(Dubois, Willinger & Blayac, 2012, J. Econ. Psych.)*.
+- **Confiance et réciprocité** : l'identification mutuelle stabilise confiance et réciprocité via la réputation *(Dubois, Willinger & Blayac, 2012, J. Econ. Psych.)*.
 - **Vote & inégalités** : le vote démocratique sous fortes inégalités peut dégrader durablement la prosocialité *(Romaniuc, DeAngelo, Dubois & McCannon, 2019 ; DeAngelo, Dubois & Romaniuc, 2020, JEBO)*.
 - **Signalement & fraude fiscale** : efficacité dissuasive de la dénonciation modulée par les normes culturelles France / Moldavie *(Bazart, Beaud & Dubois, 2020, Kyklos ; Romaniuc, Dubois et al., 2022, Public Choice)*.
 - **Sacrifice et coopération intragroupe en situation de conflit intergroupe** : registred report accepté, *Varaine et al. Experimental Economics*.
